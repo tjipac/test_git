@@ -1,2 +1,2 @@
 for i in range(1,301,1):
-    print(i,"Hello, SPATANs")
+    print(i + 500,"Hello, SPATANs")
